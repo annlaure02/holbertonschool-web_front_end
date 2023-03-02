@@ -309,10 +309,10 @@ ul.row {
 .card-work:hover .card-title {
     opacity: 1;
 }
-.card-testimonial .cart-quote {
+.card-testimonial .card-quote {
     position: relative;
 }
-.card-testimonial .cart-quote::before {
+.card-testimonial .card-quote::before {
     content: \201C;
     position: absolute;
     vertical-align: -4.5rem;
