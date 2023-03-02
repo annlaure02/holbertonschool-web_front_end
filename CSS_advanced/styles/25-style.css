@@ -78,7 +78,7 @@ a:hover {
 a:active {
     background: var(--color-light-grey);
 }
-.boutton {
+.button {
     display: var(--button-display);
     padding: var(--button-padding);
     border: var(--button-border);
