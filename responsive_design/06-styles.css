@@ -399,7 +399,7 @@
     }
 
     .header {
-      background-color: var(--color-black);
+      background: var(--color-black);
     }
   
     .header-container {
